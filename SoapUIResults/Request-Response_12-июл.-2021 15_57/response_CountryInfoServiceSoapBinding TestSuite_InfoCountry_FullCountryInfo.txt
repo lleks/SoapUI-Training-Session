@@ -1,0 +1,21 @@
+<soap:Envelope xmlns:soap="http://schemas.xmlsoap.org/soap/envelope/">
+   <soap:Body>
+      <m:FullCountryInfoResponse xmlns:m="http://www.oorsprong.org/websamples.countryinfo">
+         <m:FullCountryInfoResult>
+            <m:sISOCode>AE</m:sISOCode>
+            <m:sName>United Arab Emirates</m:sName>
+            <m:sCapitalCity>Abu Dhabi</m:sCapitalCity>
+            <m:sPhoneCode>971</m:sPhoneCode>
+            <m:sContinentCode>AS</m:sContinentCode>
+            <m:sCurrencyISOCode>AED</m:sCurrencyISOCode>
+            <m:sCountryFlag>http://www.oorsprong.org/WebSamples.CountryInfo/Flags/United_Arab_Emirates.jpg</m:sCountryFlag>
+            <m:Languages>
+               <m:tLanguage>
+                  <m:sISOCode>ara</m:sISOCode>
+                  <m:sName>Arabic</m:sName>
+               </m:tLanguage>
+            </m:Languages>
+         </m:FullCountryInfoResult>
+      </m:FullCountryInfoResponse>
+   </soap:Body>
+</soap:Envelope>

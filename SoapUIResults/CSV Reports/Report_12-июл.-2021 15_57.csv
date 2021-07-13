@@ -1,0 +1,8 @@
+"Test Suite","Test Case","Test Step","Step Type","Step Status","Result message","Execution Date"
+"CountryInfoServiceSoapBinding TestSuite","InfoCountry","CountryNamesByCode","request","OK","","12-èþë.-2021 15_57",
+"CountryInfoServiceSoapBinding TestSuite","InfoCountry","FullCountryInfo","request","OK","","12-èþë.-2021 15_57",
+"CountryInfoServiceSoapBinding TestSuite","InfoCountry","Property Transfer","transfer","OK","Message:Performed transfer [GetISO]
+","12-èþë.-2021 15_57",
+"CountryInfoServiceSoapBinding TestSuite","InfoCountry","Groovy Script","groovy","OK","","12-èþë.-2021 15_57",
+"CountryInfoServiceSoapBinding TestSuite","InfoCountry","Groovy Script1","groovy","OK","","12-èþë.-2021 15_57",
+"CountryInfoServiceSoapBinding TestSuite","InfoCountry","Groovy Script2","groovy","OK","","12-èþë.-2021 15_57",
